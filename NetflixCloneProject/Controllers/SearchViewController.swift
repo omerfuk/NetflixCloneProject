@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SearchViewController.swift
 //  NetflixCloneProject
 //
 //  Created by Ömer Faruk Kılıçaslan on 14.06.2022.
@@ -7,13 +7,15 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SearchViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
+        view.backgroundColor = .systemBackground
 
+    }
+    
+
+   
 
 }
-
